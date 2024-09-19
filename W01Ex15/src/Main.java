@@ -1,5 +1,9 @@
-public class Main {
+import java.util.Scanner;
+public class sumEven {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter the number: ");
+        int aNumber = scanner.nextInt();
+
     }
 }
