@@ -10,7 +10,7 @@ public class sumEven {
             System.out.println("Even");
         }
         else {
-            System.out.println("O");
+            System.out.println("Odd");
         }
     }
 }
